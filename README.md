@@ -33,11 +33,11 @@ Provides an overview of sales, pricing, profit margins, freight cost, and stock 
 ![Summary Statistics](images/summary_statistics.png)
 ![Summary Statistics](images/summary_statistics_2.png)
 <p align="center">
-  <img src="images/summary_statistics.png" alt="Image 1" width="800" />
+  <img src="images/summary_statistics.png" alt="Image 1" width="900" />
 </p>
 
 <p align="center">
-  <img src="images//summary_statistics_2.png" alt="Image 2" width="800" />
+  <img src="images//summary_statistics_2.png" alt="Image 2" width="900" />
 </p>
 
 
