@@ -30,8 +30,6 @@ This project analyzes vendor performance to improve **profitability**, **invento
 
 Provides an overview of sales, pricing, profit margins, freight cost, and stock turnover to identify inconsistencies and extreme values.
 
-![Summary Statistics](images/summary_statistics.png)
-![Summary Statistics](images/summary_statistics_2.png)
 <p align="center">
   <img src="images/summary_statistics.png" alt="Image 1" width="900" />
 </p>
@@ -48,6 +46,13 @@ Provides an overview of sales, pricing, profit margins, freight cost, and stock 
 Highlights extreme freight costs, premium-priced products, and unsold inventory that may impact profitability.
 
 ![Outliers Analysis](images/outliers.png)
+<p align="center">
+  <img src="images/summary_statistics.png" alt="Image 1" width="900" />
+</p>
+
+<p align="center">
+  <img src="images//summary_statistics_2.png" alt="Image 2" width="900" />
+</p>
 
 ---
 
