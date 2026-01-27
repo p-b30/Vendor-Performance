@@ -31,6 +31,7 @@ This project analyzes vendor performance to improve **profitability**, **invento
 Provides an overview of sales, pricing, profit margins, freight cost, and stock turnover to identify inconsistencies and extreme values.
 
 ![Summary Statistics](images/summary_statistics.png)
+![Summary Statistics](images/summary_statistics_2.png)
 
 ---
 
