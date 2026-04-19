@@ -49,6 +49,7 @@ Shows relationships between purchase price, sales, profit margin, and inventory 
 <p align="center">
   <img src="images//correlation.png" alt="Image 1" width="900" />
 </p>
+
 ---
 
 ## 🔍 Key Analysis & Findings
@@ -86,6 +87,7 @@ Bulk buying leads to **significantly lower unit costs**, supporting cost-efficie
 <p align="center">
   <img src="images/bulk_purchase.png" alt="Image 1" width="900" />
 </p>
+
 ---
 
 ### 🔴 Inventory Turnover Analysis
