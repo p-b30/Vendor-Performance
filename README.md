@@ -41,27 +41,14 @@ Provides an overview of sales, pricing, profit margins, freight cost, and stock 
 
 ---
 
-### 🔹 Outliers & Anomalies
-
-Highlights extreme freight costs, premium-priced products, and unsold inventory that may impact profitability.
-
-![Outliers Analysis](images/outliers.png)
-<p align="center">
-  <img src="images/summary_statistics.png" alt="Image 1" width="900" />
-</p>
-
-<p align="center">
-  <img src="images//summary_statistics_2.png" alt="Image 2" width="900" />
-</p>
-
----
 
 ### 🔹 Correlation Analysis
 
 Shows relationships between purchase price, sales, profit margin, and inventory turnover.
 
-![Correlation Heatmap](images/correlation.png)
-
+<p align="center">
+  <img src="images//correlation.png" alt="Image 1" width="900" />
+</p>
 ---
 
 ## 🔍 Key Analysis & Findings
