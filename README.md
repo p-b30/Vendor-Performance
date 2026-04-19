@@ -57,7 +57,14 @@ Shows relationships between purchase price, sales, profit margin, and inventory 
 
 Identifies brands with **low sales but high margins**, indicating opportunities to increase volume without sacrificing profit.
 
-![Brand Analysis](images/brands.png)
+
+<p align="center">
+  <img src="images/brands.png" alt="Image 1" width="900" />
+</p>
+
+<p align="center">
+  <img src="images//brands2.png" alt="Image 2" width="900" />
+</p>
 
 ---
 
@@ -65,7 +72,9 @@ Identifies brands with **low sales but high margins**, indicating opportunities 
 
 A small group of vendors contributes the majority of total purchases, creating **vendor dependency risk**.
 
-![Top Vendors](images/top_vendors.png)
+<p align="center">
+  <img src="images/top_vendors.png" alt="Image 1" width="900" />
+</p>
 
 ---
 
@@ -73,15 +82,20 @@ A small group of vendors contributes the majority of total purchases, creating *
 
 Bulk buying leads to **significantly lower unit costs**, supporting cost-efficient procurement strategies.
 
-![Bulk Purchase Impact](images/bulk_purchase.png)
 
+<p align="center">
+  <img src="images/bulk_purchase.png" alt="Image 1" width="900" />
+</p>
 ---
 
 ### 🔴 Inventory Turnover Analysis
 
 Identifies **slow-moving inventory** that locks capital and increases holding costs.
 
-![Inventory Turnover](images/inventory_turnover.png)
+
+<p align="center">
+  <img src="images/inventory_turnover.png" alt="Image 1" width="900" />
+</p>
 
 ---
 
@@ -89,7 +103,9 @@ Identifies **slow-moving inventory** that locks capital and increases holding co
 
 Compares profit margins of **high-performing vs low-performing vendors**, showing different profitability models.
 
-![Profit Margin Comparison](images/profit_margin.png)
+<p align="center">
+  <img src="images/profit_margin.png" alt="Image 1" width="900" />
+</p>
 
 ---
 
