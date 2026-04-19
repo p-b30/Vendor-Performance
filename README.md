@@ -24,7 +24,7 @@ This project analyzes vendor performance to improve **profitability**, **invento
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## 🍃 Exploratory Data Analysis (EDA)
 
 ### 🔹 Summary Statistics
 
@@ -128,6 +128,14 @@ Hypothesis testing confirms a **significant difference** in profit margins betwe
 ## 🏁 Conclusion
 
 This analysis provides **actionable insights** to improve profitability, reduce risk, and enhance vendor and inventory management.
+
+---
+## 📉 Power BI Dashboard
+
+An interactive Power BI dashboard is included to visualize vendor performance, profit margins, inventory turnover, and key business insights in a more dynamic way.
+
+<p align="center"> <img src="images/vendor_performance.png" alt="Power BI Dashboard" width="900" /> 
+</p>
 
 ---
 
