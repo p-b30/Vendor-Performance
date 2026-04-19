@@ -134,9 +134,10 @@ This analysis provides **actionable insights** to improve profitability, reduce 
 
 An interactive Power BI dashboard is included to visualize vendor performance, profit margins, inventory turnover, and key business insights in a more dynamic way.
 
-<p align="center"> <img src="images/vendor_performance.png" alt="Power BI Dashboard" width="900" /> 
-</p>
 
+<p align="center">
+  <img src="images/vendor_performance.png" alt="Image 1" width="900" />
+</p>
 ---
 
 ## 🛠️ Tools & Technologies
