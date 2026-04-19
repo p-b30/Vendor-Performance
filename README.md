@@ -138,6 +138,7 @@ An interactive Power BI dashboard is included to visualize vendor performance, p
 <p align="center">
   <img src="images/vendor_performance.jpg" alt="Image 1" width="900" />
 </p>
+
 ---
 
 ## 🛠️ Tools & Technologies
